@@ -41,7 +41,7 @@
                             <h4 class="card-title"><i class="fas fa-anchor">Transactionlog</i></h4>
                             <h6 class="card-subtitle mb-2 text-muted">the most presticious transaction in Indonesia</h6>
                             <p class="card-text">Merupakan interface yang terdiri dari add,update,delete,view </p>
-                            <a href="<?php echo site_url('transactionlog'); ?> " class="btn btn-primary">Detail</a>                    
+                            <a href="<?php echo site_url('transactionlog'); ?> " class="btn btn-success">Detail</a>                    
                         </div>
                     </div>
                 </div>
