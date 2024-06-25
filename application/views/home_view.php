@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="<?= base_url() ?>assets\bootstrap\css\bootstrap.min.css">
     </head>
     <body>
-        <nav class="navbar navbar-expand-md bg-success navbar-dark my-2">
+        <nav class="navbar navbar-expand-md bg-dark navbar-dark my-2">
             <a href="<?php echo site_url('home'); ?>" class="navbar-brand">Home</a>
             <button class="navbar-toggler" data-toggle="collapse" 
                     data-target="#collapsibleNavbar" type="button">
@@ -41,7 +41,7 @@
                             <h4 class="card-title"><i class="fas fa-anchor">Transactionlog</i></h4>
                             <h6 class="card-subtitle mb-2 text-muted">the most presticious transaction in Indonesia</h6>
                             <p class="card-text">Merupakan interface yang terdiri dari add,update,delete,view </p>
-                            <a href="<?php echo site_url('transactionlog'); ?> " class="btn btn-success">Detail</a>                    
+                            <a href="<?php echo site_url('transactionlog'); ?> " class="btn btn-primary">Detail</a>                    
                         </div>
                     </div>
                 </div>
