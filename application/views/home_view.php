@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="<?= base_url() ?>assets\bootstrap\css\bootstrap.min.css">
     </head>
     <body>
-        <nav class="navbar navbar-expand-md bg-dark navbar-dark my-2">
+        <nav class="navbar navbar-expand-md bg-success navbar-dark my-2">
             <a href="<?php echo site_url('home'); ?>" class="navbar-brand">Home</a>
             <button class="navbar-toggler" data-toggle="collapse" 
                     data-target="#collapsibleNavbar" type="button">
