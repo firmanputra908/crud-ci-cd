@@ -6,7 +6,7 @@
         <link rel="stylesheet" href="<?= base_url() ?>assets\bootstrap\css\bootstrap.min.css">
     </head>
     <body>
-        <nav class="navbar navbar-expand-md bg-dark navbar-dark my-2">
+        <nav class="navbar navbar-expand-md bg-blue navbar-dark my-2">
             <a href="<?php echo site_url('home'); ?>" class="navbar-brand">Home</a>
             <button class="navbar-toggler" data-toggle="collapse" 
                     data-target="#collapsibleNavbar" type="button">
@@ -30,8 +30,8 @@
             </div>
         </nav>
         <div class="jumbotron jumbotron-fluid my-2">
-            <h1 style="text-align:center">Dashboard</h1>
-            <p style="text-align: center">Simple CRUD using CodeIgniter 3 </p>
+            <h1 style="text-align:center">HOMEPAGE</h1>
+            <p style="text-align: center">CRUD CODEIGNITER 3</p>
         </div>
         <div class="container"> 
             <div class="row">
