@@ -30,7 +30,7 @@
             </div>
         </nav>
         <div class="jumbotron jumbotron-fluid my-2">
-            <h1 style="text-align:center">Insiyyah imoeett</h1>
+            <h1 style="text-align:center">IIN</h1>
             <p style="text-align: center">Simple CRUD using CodeIgniter 3 </p>
         </div>
         <div class="container"> 
